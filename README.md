@@ -1,4 +1,6 @@
 ### Hello, My name is Jeferson 👋
+3rd year of computer science and basic level of English and Spanish.
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981085929)
 
 ![jgquiterio GitHub stats](https://github-readme-stats.vercel.app/api?username=jgquiterio&show_icons=true&theme=dark)
