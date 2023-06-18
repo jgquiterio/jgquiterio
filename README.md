@@ -5,7 +5,7 @@ Studying computer science in the 3rd semester and working as a freelancer in ful
 ![GitHub repo size](https://img.shields.io/badge/Spanish(ES)-Basic-blue)
 
 ### Contacts
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981085929)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511986929275)
 
 ![jgquiterio GitHub stats](https://github-readme-stats.vercel.app/api?username=jgquiterio&show_icons=true&theme=dark)
 
