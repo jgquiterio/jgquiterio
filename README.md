@@ -1,5 +1,5 @@
 ### Hello, My name is Jeferson 👋
-Studying computer science in the 4rd semester and working as a freelancer in full stack development.
+Studying computer science in the 6rd semester and working as a freelancer in full stack development.
 <br><br>
 ![GitHub repo size](https://img.shields.io/badge/English(US)-Basic-blue)
 ![GitHub repo size](https://img.shields.io/badge/Spanish(ES)-Basic-blue)
