@@ -1,75 +1,36 @@
-### Developer PHP | Laravel | VueJS 👋
-Hello my name is Jeferson, I am Studying computer science in the 6rd semester and working as a freelancer in full stack development.
-<br><br>
-![GitHub repo size](https://img.shields.io/badge/English(US)-Basic-blue)
-![GitHub repo size](https://img.shields.io/badge/Spanish(ES)-Basic-blue)
+# Hi, I'm Jeferson Quiterio 👋
 
-### Contacts
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511986929275)
+### Software Developer | PHP · Laravel · Vue.js
 
-![jgquiterio GitHub stats](https://github-readme-stats.vercel.app/api?username=jgquiterio&show_icons=true&theme=dark)
+I build web applications and business systems focused on clean code, maintainability, and practical solutions to real-world problems.
 
-### Blogs Skills
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-  <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</div>
+I'm a software developer from Brazil with experience in full-stack development, specializing in the PHP ecosystem and modern web applications.
 
-### Database Skills
-<div style="display: inline_block"><br/>
-  <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">  
-</div>
+## 🛠️ Tech Stack
 
-### Design Skills
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
-</div>
+- **Backend:** PHP, Laravel, REST APIs
+- **Frontend:** JavaScript, TypeScript, Vue.js, HTML5, CSS3, Bootstrap
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Docker
 
-### Frameworks, Platforms and Libraries Skills
-<div style="display: inline_block"><br/>
-  <img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">  
-  <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">  
-  <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> 
-</div>
+## 🚀 Featured Projects
 
-### IDEs/Editors Skills
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Notepad++" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
+Explore my repositories to discover my work in web development, e-commerce, and business applications.
 
-### Languages Skills
-<div style="display: inline_block"><br/>  
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+<!-- Add your strongest projects here with descriptions, screenshots, and demos. -->
 
-### Office Skills
-<div style="display: inline_block"><br/>  
-  <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img align="center" alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
-</div>
+## 🎯 Current Focus
 
-### Operating System Skills
-<div style="display: inline_block"><br/>  
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
-</div>
+- Improving software architecture and design patterns
+- Building maintainable Laravel applications
+- Developing modern frontend experiences with Vue.js
+- Improving automated testing and software quality
 
-### Servers Skills
-<div style="display: inline_block"><br/>  
-  <img align="center" alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">  
-</div>
+## 📫 Connect With Me
 
-### Version Control Skills
-<div style="display: inline_block"><br/>  
-  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  
-</div>
+- GitHub: [@jgquiterio](https://github.com/jgquiterio)
+- LinkedIn: Developer
+
+---
+
+*Always learning. Always building.*
