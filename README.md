@@ -1,36 +1,58 @@
-# Hi, I'm Jeferson Quiterio 👋
+# Jeferson Quiterio
 
-### Software Developer | PHP · Laravel · Vue.js
+### Software Engineer | Full Stack Development | PHP · Laravel · Vue.js
 
-I build web applications and business systems focused on clean code, maintainability, and practical solutions to real-world problems.
+I design and develop web applications and business systems with a focus on maintainable code, clear architecture, and practical business needs.
 
-I'm a software developer from Brazil with experience in full-stack development, specializing in the PHP ecosystem and modern web applications.
+Based in Brazil, I work across backend and frontend development, building web solutions, e-commerce platforms, and business applications.
 
-## 🛠️ Tech Stack
+I'm interested in collaborating with technology teams and businesses in Brazil and worldwide.
 
-- **Backend:** PHP, Laravel, REST APIs
-- **Frontend:** JavaScript, TypeScript, Vue.js, HTML5, CSS3, Bootstrap
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Docker
+## Core Technologies
 
-## 🚀 Featured Projects
+**Backend**
+- PHP
+- Laravel
+- RESTful APIs
 
-Explore my repositories to discover my work in web development, e-commerce, and business applications.
+**Frontend**
+- Vue.js
+- JavaScript
+- TypeScript
+- HTML5, CSS3, Bootstrap
 
-<!-- Add your strongest projects here with descriptions, screenshots, and demos. -->
+**Data & Infrastructure**
+- MySQL
+- Docker
+- Git and GitHub
 
-## 🎯 Current Focus
+## Engineering Focus
 
-- Improving software architecture and design patterns
-- Building maintainable Laravel applications
-- Developing modern frontend experiences with Vue.js
-- Improving automated testing and software quality
+- Maintainable application architecture
+- API design and system integration
+- Database modeling and data integrity
+- Backend and frontend integration
+- Automated testing and code quality
+- Application deployment and maintainability
 
-## 📫 Connect With Me
+## Selected Projects
 
-- GitHub: [@jgquiterio](https://github.com/jgquiterio)
-- LinkedIn: Developer
+Project documentation and technical case studies are being organized to highlight architecture, implementation decisions, and practical functionality.
 
----
+- **Business Applications** — Web systems designed around real business workflows.
+- **E-commerce** — Online retail projects and platform customization.
+- **Full-Stack Development** — Backend services, database integration, and responsive interfaces.
 
-*Always learning. Always building.*
+<!-- Replace these entries with verified repositories, screenshots, and demos. -->
+
+## Professional Goals
+
+Open to software engineering opportunities, remote international roles, and freelance collaborations.
+
+## Connect
+
+- GitHub: https://github.com/jgquiterio
+- LinkedIn: developing
+- Location: Brazil
+
+*Building reliable software, one solution at a time.*
